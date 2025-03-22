@@ -3,7 +3,7 @@
 # Email: pruthvicb7@gmail.com
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
->>#TASK 1:-
+>># TASK 1:-
 # Sum of N Numbers in C using RISC-V Assembly Instructions
 
 # Overview
